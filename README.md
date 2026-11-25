@@ -181,52 +181,53 @@ dist/
 
 ---
 
-❤️ حمایت از توسعه پروژه
+❤## ❤️ حمایت از توسعه پروژه
 
 توسعه و نگهداری Vid Studio زمان و تلاش زیادی نیاز دارد. اگر این نرم‌افزار برای شما مفید بوده، می‌توانید با حمایت مالی به ادامه توسعه و بهبود آن کمک کنید.
 
 <div align="center">
 
-☕ حمایت مالی از Vid Studio
+### ☕ حمایت مالی از Vid Studio
 
+[![Donate](https://img.shields.io/badge/Donate-حمایت%20مالی-ff69b4?style=for-the-badge)](https://daramet.com/Vid_Learn)
 
-
-حمایت مالی از طریق درآمدت
+**[حمایت مالی از طریق درآمدت](https://daramet.com/Vid_Learn)**
 
 </div>
 
-🌐 ارتباط با ما
+## 🌐 ارتباط با ما
 
 برای دنبال کردن اخبار، دریافت اطلاعیه‌ها و آشنایی با پروژه‌های جدید می‌توانید از طریق کانال‌های زیر با ما همراه باشید.
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-VidLearnOfficial-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VidLearnOfficial)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Vid__Learn-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vid_Learn)
 
-
-
-کانال تلگرام · کانال یوتیوب
+**[کانال تلگرام](https://t.me/VidLearnOfficial) · [کانال یوتیوب](https://www.youtube.com/@Vid_Learn)**
 
 </div>
 
 ---
 
-##📄 مجوز استفاده (License)
+## 📄 مجوز استفاده (License)
 
-این پروژه تحت مجوز GNU General Public License v3.0 (GPL-3.0) منتشر شده است.
+این پروژه تحت مجوز **GNU General Public License v3.0 (GPL-3.0)** منتشر شده است.
 
 استفاده، مطالعه، تغییر و توزیع این نرم‌افزار مجاز است؛ با این شرایط که هنگام توزیع نسخه‌های اصلی یا تغییر‌یافته، الزامات GPL-3.0 از جمله انتشار کد منبع و حفظ مجوز رعایت شوند.
 
-برای اطلاعات بیشتر، فایل LICENSE را مطالعه کنید.
+برای اطلاعات بیشتر، فایل [LICENSE](LICENSE) را مطالعه کنید.
 
 ---
 
 <div align="center">
 
-Vid Studio
+**Vid Studio**
 
 ابزاری برای ساده‌تر کردن فرایند بومی‌سازی بازی‌های Unreal Engine.
 
-Developed with ❤️ by Vid Learn
+**Developed with ❤️ by Vid Learn**
 
 </div>
+
